@@ -11,6 +11,8 @@
 
 相关技术方法有：OneKE模型的环境配置及使用、Python脚本对源数据及中间产物的处理、导入Neo4j所用Cypher语句的设计、langchain/neo4j-cypher自然语言转Cypher查询的RAG过程来进行问答并得到结果等。
 
+过程记录文档：[Doc](https://rapr5wizcgi.feishu.cn/wiki/PV2UwBBANivVpCkVHtmccUWfnse)
+
 ![Process](assets/process.png)
 
 ![Graph](assets/graph.png)
