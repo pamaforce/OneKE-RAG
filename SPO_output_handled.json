@@ -1,0 +1,1462 @@
+[
+    {
+        "Subject": "中华苏维埃共和国宪法大纲",
+        "Predicate": "制定",
+        "Object": "大会"
+    },
+    {
+        "Subject": "中华苏维埃共和国宪法大纲",
+        "Predicate": "通过",
+        "Object": "大会"
+    },
+    {
+        "Subject": "中华苏维埃共和国宪法大纲",
+        "Predicate": "通过",
+        "Object": "第一届全国人民代表大会"
+    },
+    {
+        "Subject": "中华苏维埃共和国宪法",
+        "Predicate": "制定",
+        "Object": "第一届华北临时人民代表大会"
+    },
+    {
+        "Subject": "中华苏维埃共和国宪法大纲",
+        "Predicate": "通过",
+        "Object": "第一届华北临时人民代表大会"
+    },
+    {
+        "Subject": "《中华苏维埃共和国宪法大纲》",
+        "Predicate": "通过",
+        "Object": "中华苏维埃第一次全国代表大会"
+    },
+    {
+        "Subject": "中华苏维埃共和国宪法",
+        "Predicate": "制定",
+        "Object": "第一届华北临时人民代表大会"
+    },
+    {
+        "Subject": "中华苏维埃共和国宪法",
+        "Predicate": "颁布",
+        "Object": "1949年9月"
+    },
+    {
+        "Subject": "中华苏维埃共和国宪法大纲",
+        "Predicate": "通过",
+        "Object": "第一届全国代表大会"
+    },
+    {
+        "Subject": "中华苏维埃共和国宪法",
+        "Predicate": "颁布",
+        "Object": "第一届华北临时人民代表大会"
+    },
+    {
+        "Subject": "选举法",
+        "Predicate": "通过",
+        "Object": "中央人民政府委员会"
+    },
+    {
+        "Subject": "中华人民共和国全国人民代表大会及地方各级人民代表大会选举法",
+        "Predicate": "通过",
+        "Object": "中央人民政府委员会"
+    },
+    {
+        "Subject": "中华人民共和国全国人民代表大会及地方各级人民代表大会选举法",
+        "Predicate": "通过",
+        "Object": "中央人民政府委员会"
+    },
+    {
+        "Subject": "《中华人民共和国全国人民代表大会及地方各级人民代表大会选举法》",
+        "Predicate": "通过",
+        "Object": "中央人民政府委员会"
+    },
+    {
+        "Subject": "中华人民共和国全国人民代表大会及地方各级人民代表大会选举法",
+        "Predicate": "制定",
+        "Object": "中央人民政府委员会"
+    },
+    {
+        "Subject": "中央人民政府委员会",
+        "Predicate": "决定",
+        "Object": "进行普选"
+    },
+    {
+        "Subject": "选举法",
+        "Predicate": "颁布",
+        "Object": "1954年5月"
+    },
+    {
+        "Subject": "中华人民共和国全国人民代表大会及地方各级人民代表大会选举法",
+        "Predicate": "通过",
+        "Object": "中央人民政府委员会"
+    },
+    {
+        "Subject": "选举法",
+        "Predicate": "颁布",
+        "Object": "1953年2月"
+    },
+    {
+        "Subject": "中华人民共和国第一届全国人民代表大会",
+        "Predicate": "选举",
+        "Object": "毛泽东"
+    },
+    {
+        "Subject": "宪法",
+        "Predicate": "制定",
+        "Object": "会议"
+    },
+    {
+        "Subject": "宪法",
+        "Predicate": "制定",
+        "Object": "会议"
+    },
+    {
+        "Subject": "宪法",
+        "Predicate": "制定",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国宪法草案",
+        "Predicate": "报告",
+        "Object": "刘少奇"
+    },
+    {
+        "Subject": "政府工作报告",
+        "Predicate": "报告",
+        "Object": "周恩来"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "刘少奇"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "周恩来"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "刘少奇"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "周恩来"
+    },
+    {
+        "Subject": "中华人民共和国宪法",
+        "Predicate": "制定",
+        "Object": "会议"
+    },
+    {
+        "Subject": "关于政府工作报告的决议",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国全国人民代表大会组织法",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国国务院组织法",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国法院组织法",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国人民检察院组织法",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国地方各级人民代表大会和地方各级人民委员会组织法",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "关于中华人民共和国现行法律、法令继续有效的决议",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "关于政府工作报告的决议",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国宪法",
+        "Predicate": "制定",
+        "Object": "会议"
+    },
+    {
+        "Subject": "关于政府工作报告的决议",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国全国人民代表大会组织法",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国国务院组织法",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国法院组织法",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国人民检察院组织法",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国地方各级人民代表大会和地方各级人民委员会组织法",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "关于中华人民共和国现行法律、法令继续有效的决议",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国宪法》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《关于政府工作报告的决议》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国全国人民代表大会组织法》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国国务院组织法》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国法院组织法》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国人民检察院组织法》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国地方各级人民代表大会和地方各级人民委员会组织法》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《关于中华人民共和国现行法律、法令继续有效的决议》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国宪法",
+        "Predicate": "制定",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国宪法",
+        "Predicate": "颁布",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国宪法",
+        "Predicate": "颁布",
+        "Object": "会议"
+    },
+    {
+        "Subject": "关于政府工作报告的决议",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国宪法",
+        "Predicate": "颁布",
+        "Object": "会议"
+    },
+    {
+        "Subject": "全国人民代表大会",
+        "Predicate": "选举",
+        "Object": "全国人民代表大会选举"
+    },
+    {
+        "Subject": "地方各级人民代表大会",
+        "Predicate": "选举",
+        "Object": "民主选举"
+    },
+    {
+        "Subject": "《宪法》",
+        "Predicate": "通过",
+        "Object": "全国人民代表大会"
+    },
+    {
+        "Subject": "人民代表大会制度",
+        "Predicate": "指导",
+        "Object": "宪法"
+    },
+    {
+        "Subject": "国务院总理",
+        "Predicate": "决定",
+        "Object": "全国人民代表大会"
+    },
+    {
+        "Subject": "全国人民代表大会组织法",
+        "Predicate": "颁布",
+        "Object": "一届全国人大一次会议主席团"
+    },
+    {
+        "Subject": "全国人民代表大会组织法",
+        "Predicate": "颁布",
+        "Object": "一届全国人大一次会议主席团"
+    },
+    {
+        "Subject": "全国人民代表大会组织法",
+        "Predicate": "颁布",
+        "Object": "一届全国人大一次会议主席团"
+    },
+    {
+        "Subject": "全国人民代表大会组织法",
+        "Predicate": "宪法",
+        "Object": "全国人民代表大会"
+    },
+    {
+        "Subject": "全国人民代表大会组织法",
+        "Predicate": "颁布",
+        "Object": "一届全国人大一次会议主席团"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "选举",
+        "Object": "毛泽东"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "选举",
+        "Object": "朱德"
+    },
+    {
+        "Subject": "第一届全国人民代表大会常务委员会",
+        "Predicate": "选举",
+        "Object": "刘少奇"
+    },
+    {
+        "Subject": "国务院总理",
+        "Predicate": "提名",
+        "Object": "周恩来"
+    },
+    {
+        "Subject": "董必武",
+        "Predicate": "部门",
+        "Object": "最高人民法院"
+    },
+    {
+        "Subject": "张鼎丞",
+        "Predicate": "部门",
+        "Object": "最高人民检察院"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "李富春"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "彭德怀"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "彭真"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "邓子恢"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "陈云"
+    },
+    {
+        "Subject": "关于发展国民经济第一个五年计划的报告",
+        "Predicate": "报告",
+        "Object": "李富春"
+    },
+    {
+        "Subject": "关于1954年国家决算和1955年国家预算的报告",
+        "Predicate": "报告",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "关于中华人民共和国兵役法草案的报告",
+        "Predicate": "报告",
+        "Object": "彭德怀"
+    },
+    {
+        "Subject": "全国人大常委会的工作报告",
+        "Predicate": "报告",
+        "Object": "彭真"
+    },
+    {
+        "Subject": "关于根治黄河水害和开发黄河水利的综合规划的报告",
+        "Predicate": "报告",
+        "Object": "邓子恢"
+    },
+    {
+        "Subject": "关于粮食的统购统销问题",
+        "Predicate": "报告",
+        "Object": "陈云"
+    },
+    {
+        "Subject": "签订亚洲和太平洋地区集体和平公约",
+        "Predicate": "提议",
+        "Object": "周恩来总理"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "李富春"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "彭德怀"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "彭真"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "邓子恢"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "陈云"
+    },
+    {
+        "Subject": "签订亚洲和太平洋地区集体和平公约",
+        "Predicate": "提出",
+        "Object": "周恩来总理"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "李富春"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "彭德怀"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "彭真"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "邓子恢"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "陈云"
+    },
+    {
+        "Subject": "《中华人民共和国发展国民经济的第一个五年计划(1953-1957)》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《关于根治黄河水害和开发黄河水利的综合规划的决议》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国兵役法》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《关于授权常务委员会制定单行法规的决议》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国发展国民经济的第一个五年计划(1953-1957)》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《关于根治黄河水害和开发黄河水利的综合规划的决议》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国兵役法》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《关于授权常务委员会制定单行法规的决议》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "中华人民共和国兵役法",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国发展国民经济的第一个五年计划(1953-1957)》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《关于根治黄河水害和开发黄河水利的综合规划的决议》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国兵役法》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国发展国民经济的第一个五年计划(1953-1957)》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《关于根治黄河水害和开发黄河水利的综合规划的决议》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《中华人民共和国兵役法》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《关于授权常务委员会制定单行法规的决议》",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "决定",
+        "Object": "《中华人民共和国发展国民经济的第一个五年计划(1953-1957)》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "决定",
+        "Object": "《关于根治黄河水害和开发黄河水利的综合规划的决议》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "决定",
+        "Object": "《中华人民共和国兵役法》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "决定",
+        "Object": "《关于授权常务委员会制定单行法规的决议》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "决定",
+        "Object": "关于撤销热河省、西康省并修改中华人民共和国地方各级人民代表大会和地方各级人民委员会组织法第二十五条第二款第一项规定的决议"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "决定",
+        "Object": "关于撤销燃料工业部、设立煤炭工业部、电力工业部、石油工业部、农产品采购部，并修改中华人民共和国国务院组织法第二条第一款条、文的决议"
+    },
+    {
+        "Subject": "中华人民共和国兵役法",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "选举",
+        "Object": "人选"
+    },
+    {
+        "Subject": "人选",
+        "Predicate": "决定",
+        "Object": "会议"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "决定",
+        "Object": "人选"
+    },
+    {
+        "Subject": "1955年国家决算和1956年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "高级农业生产合作社示范章程",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "全国人大常委会工作报告",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "高级农业生产合作社示范章程",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "全国人大常委会工作报告",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "高级农业生产合作社示范章程",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1955年国家决算和1956年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "高级农业生产合作社示范章程",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1955年国家决算和1956年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "高级农业生产合作社示范章程",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "全国人大常委会工作报告",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "高级农业生产合作社示范章程",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "关于全国人大常委会工作报告的决议",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "关于修改地方各级人民代表大会和地方各级人民委员会组织法第二十五条第二款第四项第五项规定的决议",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1955年国家决算和1956年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "高级农业生产合作社示范章程",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "全国人大常委会工作报告",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "高级农业生产合作社示范章程",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1955年国家决算和1956年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "高级农业生产合作社示范章程",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "全国人大常委会工作报告",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "关于1955年国家决算和1956年国家预算的报告",
+        "Predicate": "报告",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "全国人大常委会工作报告",
+        "Predicate": "报告",
+        "Object": "彭真"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "决定",
+        "Object": "批准1955年国家决算和1956年国家预算"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "决定",
+        "Object": "通过了《高级农业生产合作社示范章程》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "决定",
+        "Object": "通过了关于全国人大常委会工作报告的决议"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "决定",
+        "Object": "通过了关于修改地方各级人民代表大会和地方各级人民委员会组织法第二十五条第二款第四项第五项规定的决议"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "发言",
+        "Object": "廖鲁言"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "发言",
+        "Object": "彭真"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "发言",
+        "Object": "陈云"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "发言",
+        "Object": "李维汉"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "发言",
+        "Object": "周恩来"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "高级农业生产合作社示范章程",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1955年国家决算和1956年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "高级农业生产合作社示范章程",
+        "Predicate": "发言",
+        "Object": "廖鲁言"
+    },
+    {
+        "Subject": "全国人大常委会工作报告",
+        "Predicate": "发言",
+        "Object": "彭真"
+    },
+    {
+        "Subject": "商业工作与工商关系问题",
+        "Predicate": "发言",
+        "Object": "陈云"
+    },
+    {
+        "Subject": "关于统一战线",
+        "Predicate": "发言",
+        "Object": "李维汉"
+    },
+    {
+        "Subject": "目前国际形势、中国外交政策和解放台湾问题",
+        "Predicate": "发言",
+        "Object": "周恩来"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "批准",
+        "Object": "1955年国家决算和1956年国家预算"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "周恩来总理所作的《政府工作报告》和《关于中缅边界问题的报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "国务院副总理兼财政部长李先念《关于1956年国家决算和1957年国家预算草案的报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "国务院副总理兼国家经济委员会主任薄一波《关于1956年度国民经济计划的执行结果和1957年度国民经济计划草案的报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "最高人民检察院检察长张鼎丞作关于1956年以来检察工作情况的报告"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "最高人民法院院长董必武《关于最高人民法院工作报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "全国人大常委会副委员长彭真《全国人大常委会工作报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "国务院副总理兼民族事务委员会主任乌兰夫《关于建立广西壮族自治区和宁夏回族自治区的报告》"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "通过",
+        "Object": "批准政府工作报告"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "通过",
+        "Object": "批准1956年国家决算"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "通过",
+        "Object": "批准1957年度国民经济计划"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "通过",
+        "Object": "批准全国人大常委会工作报告、最高人民法院和检察院工作报告"
+    },
+    {
+        "Subject": "政府工作报告",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1956年国家决算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1957年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "政府工作报告",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1956年国家决算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1957年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1957年度国民经济计划",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "全国人大常委会工作报告",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "周恩来总理所作的《政府工作报告》和《关于中缅边界问题的报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "国务院副总理兼财政部长李先念《关于1956年国家决算和1957年国家预算草案的报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "国务院副总理兼国家经济委员会主任薄一波《关于1956年度国民经济计划的执行结果和1957年度国民经济计划草案的报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "最高人民检察院检察长张鼎丞作关于1956年以来检察工作情况的报告"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "最高人民法院院长董必武《关于最高人民法院工作报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "全国人大常委会副委员长彭真《全国人大常委会工作报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "国务院副总理兼民族事务委员会主任乌兰夫《关于建立广西壮族自治区和宁夏回族自治区的报告》"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "决定",
+        "Object": "批准政府工作报告"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "决定",
+        "Object": "批准1956年国家决算"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "决定",
+        "Object": "批准1957年度国民经济计划"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "决定",
+        "Object": "批准全国人大常委会工作报告、最高人民法院和检察院工作报告"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "周恩来总理所作的《政府工作报告》和《关于中缅边界问题的报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "国务院副总理兼财政部长李先念《关于1956年国家决算和1957年国家预算草案的报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "国务院副总理兼国家经济委员会主任薄一波《关于1956年度国民经济计划的执行结果和1957年度国民经济计划草案的报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "最高人民检察院检察长张鼎丞作关于1956年以来检察工作情况的报告"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "最高人民法院院长董必武《关于最高人民法院工作报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "全国人大常委会副委员长彭真《全国人大常委会工作报告》"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "国务院副总理兼民族事务委员会主任乌兰夫《关于建立广西壮族自治区和宁夏回族自治区的报告》"
+    },
+    {
+        "Subject": "政府工作报告",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1956年国家决算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1957年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1958年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "薄一波"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "吴玉章"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "周恩来"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "通过",
+        "Object": "修正批准1958年国家预算"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "通过",
+        "Object": "批准1958年度国民经济计划"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "通过",
+        "Object": "批准人大常委会工作报告"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "通过",
+        "Object": "批准《汉语拼音方案》"
+    },
+    {
+        "Subject": "决定",
+        "Predicate": "通过",
+        "Object": "通过"
+    },
+    {
+        "Subject": "关于1957年国家预算执行情况和1958年国家预算及1958年度国民经济计划的决议",
+        "Predicate": "通过",
+        "Object": "决议"
+    },
+    {
+        "Subject": "关于1957年国家预算执行情况和1958年国家预算草案的报告",
+        "Predicate": "通过",
+        "Object": "决议"
+    },
+    {
+        "Subject": "关于1957年国家预算执行情况和1958年国家预算及1958年度国民经济计划的决议",
+        "Predicate": "通过",
+        "Object": "批准"
+    },
+    {
+        "Subject": "关于1957年国家预算执行情况和1958年国家预算草案的报告",
+        "Predicate": "通过",
+        "Object": "修正批准"
+    },
+    {
+        "Subject": "关于人大常委会工作报告的决议",
+        "Predicate": "通过",
+        "Object": "决议"
+    },
+    {
+        "Subject": "关于汉语拼音方案的决议",
+        "Predicate": "通过",
+        "Object": "决议"
+    },
+    {
+        "Subject": "关于调整国务院所属组织机构的决定",
+        "Predicate": "通过",
+        "Object": "通过"
+    },
+    {
+        "Subject": "关于将直辖市天津市改为河北省省辖市的决议",
+        "Predicate": "通过",
+        "Object": "决议"
+    },
+    {
+        "Subject": "关于中国科学院院长副院长任免问题的决议",
+        "Predicate": "通过",
+        "Object": "决议"
+    },
+    {
+        "Subject": "1958年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1958年度国民经济计划",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "通过",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1958年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "关于1957年国家预算执行情况和1958年国家预算及1958年度国民经济计划的决议",
+        "Predicate": "通过",
+        "Object": "批准"
+    },
+    {
+        "Subject": "1958年国家预算",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1958年度国民经济计划",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "人大常委会工作报告",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "《汉语拼音方案》",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "1958年国家预算草案",
+        "Predicate": "报告",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "1958年度国民经济计划草案",
+        "Predicate": "报告",
+        "Object": "薄一波"
+    },
+    {
+        "Subject": "1958年度国民经济计划",
+        "Predicate": "批准",
+        "Object": "会议"
+    },
+    {
+        "Subject": "关于调整国务院所属组织机构的决定",
+        "Predicate": "决定",
+        "Object": "决定"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "薄一波"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "吴玉章"
+    },
+    {
+        "Subject": "会议",
+        "Predicate": "听取",
+        "Object": "周恩来"
+    },
+    {
+        "Subject": "关于1957年国家预算执行情况和1958年国家预算及1958年度国民经济计划的决议",
+        "Predicate": "通过",
+        "Object": "通过"
+    },
+    {
+        "Subject": "关于1957年国家预算执行情况和1958年国家预算草案的报告",
+        "Predicate": "通过",
+        "Object": "原则批准"
+    },
+    {
+        "Subject": "关于1958年度国民经济计划草案的报告",
+        "Predicate": "通过",
+        "Object": "批准"
+    },
+    {
+        "Subject": "关于1957年国家预算执行情况和1958年国家预算草案的报告",
+        "Predicate": "听取",
+        "Object": "李先念"
+    },
+    {
+        "Subject": "关于1958年度国民经济计划草案的报告",
+        "Predicate": "听取",
+        "Object": "薄一波"
+    },
+    {
+        "Subject": "关于当前文字改革工作和汉语拼音方案的报告",
+        "Predicate": "听取",
+        "Object": "吴玉章"
+    },
+    {
+        "Subject": "关于目前国际形势和中国外交政策的报告",
+        "Predicate": "听取",
+        "Object": "周恩来总理"
+    },
+    {
+        "Subject": "程潜",
+        "Predicate": "选举",
+        "Object": "第一届全国人大常委会副委员长"
+    },
+    {
+        "Subject": "全国人民代表大会会议",
+        "Predicate": "提议",
+        "Object": "全国人民代表大会代表"
+    },
+    {
+        "Subject": "全国人民代表大会",
+        "Predicate": "选举",
+        "Object": "全国人民代表大会常务委员会委员长、副委员长、秘书长、委员"
+    },
+    {
+        "Subject": "全国人民代表大会",
+        "Predicate": "选举",
+        "Object": "中华人民共和国主席、副主席"
+    },
+    {
+        "Subject": "全国人民代表大会",
+        "Predicate": "选举",
+        "Object": "国务院总理"
+    },
+    {
+        "Subject": "全国人民代表大会",
+        "Predicate": "选举",
+        "Object": "中央军事委员会主席"
+    },
+    {
+        "Subject": "全国人民代表大会",
+        "Predicate": "选举",
+        "Object": "最高人民法院院长"
+    },
+    {
+        "Subject": "全国人民代表大会",
+        "Predicate": "选举",
+        "Object": "最高人民检察院检察长"
+    },
+    {
+        "Subject": "国民经济和社会发展计划",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会"
+    },
+    {
+        "Subject": "国家预算",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会"
+    },
+    {
+        "Subject": "国民经济和社会发展计划",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会"
+    },
+    {
+        "Subject": "国家的预算",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会"
+    },
+    {
+        "Subject": "国民经济和社会发展计划",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会"
+    },
+    {
+        "Subject": "国民经济和社会发展计划",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会"
+    },
+    {
+        "Subject": "国家的预算",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会"
+    },
+    {
+        "Subject": "国民经济和社会发展计划",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会"
+    },
+    {
+        "Subject": "国民经济和社会发展计划",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "国家预算",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "条约",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "协定",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "特赦",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "国民经济和社会发展计划",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "国民经济和社会发展计划",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "国家预算",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "国民经济和社会发展计划",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "国家预算",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "条约",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "行政法规",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "地方性法规",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "决议",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "特赦",
+        "Predicate": "决定",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "国民经济和社会发展计划",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "国家预算",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "条约",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "行政法规",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "地方性法规",
+        "Predicate": "批准",
+        "Object": "全国人民代表大会常务委员会"
+    },
+    {
+        "Subject": "庆祝全国人民代表大会成立六十周年",
+        "Predicate": "发言",
+        "Object": "习近平主席"
+    }
+]
